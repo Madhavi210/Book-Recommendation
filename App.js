@@ -14,6 +14,7 @@ const bookDatabase = {
     { name: "Alice in wonderland", rating: "4.5/5" },
     { name: "the great indian novel", rating: "3/5" }
   ],
+  
   selfhelp: [
     { name: "How to Win Friends and Influence People", rating: "4.5/5" },
     { name: "Think and Grow Rich", rating: "5/5" },
